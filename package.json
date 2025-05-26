@@ -8,31 +8,31 @@
       "npm": "10.0.0"
   },
   "scripts": {
-      "start": "node Ullash.js",
+      "start": "node Nahid.js",
       "login": "node login",
       "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY.git"
+      "url": "https://github.com/Nahid-ai-ops/CYBER-BOT-NAHID.git"
   },
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "nahidproject",
       "messenger",
       "javasvript",
-      "ullash",
+      "nahid",
       "cyberullash",
-      "cyberRajib ",
-      "islamick chat bot"
+      "cyberNahid ",
+      "CYBER BOT NAHID"
   ],
-  "author": "Ullash ッ",
+  "author": "NAHID ッ",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
+      "url": "https://github.com/Nahid-ai-ops/CYBER-BOT-NAHID/issues"
   },
-  "homepage": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues",
+  "homepage": "https://github.com/Nahid-ai-ops/CYBER-BOT-NAHID/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
